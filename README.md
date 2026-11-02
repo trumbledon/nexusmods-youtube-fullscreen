@@ -34,6 +34,8 @@ The script makes no additional network requests, stores no data, and requests no
 
 Inspired by [Allow full screen for YouTube embedded videos](https://greasyfork.org/en/scripts/435238-allow-full-screen-for-youtube-embedded-videos) by [ablauch](https://greasyfork.org/en/users/4654). This Nexus-specific implementation was rewritten to address dynamic embeds and intermittent permission timing issues.
 
+Developed with assistance from OpenAI Codex.
+
 ## Feedback
 
 Report problems in [Issues](https://github.com/trumbledon/nexusmods-youtube-fullscreen/issues). Include your browser, userscript manager, a Nexus mod page URL, and whether refreshing changes the result.
